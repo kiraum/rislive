@@ -4,7 +4,7 @@ astroid==3.3.5
     # via pylint
 black==24.10.0
     # via rislive-py (pyproject.toml)
-click==8.1.7
+click==8.1.8
     # via black
 dill==0.3.9
     # via pylint
